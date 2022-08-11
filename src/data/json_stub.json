@@ -130,31 +130,19 @@
             "name": "Reading Manga",
             "gifUrl": "https://media.giphy.com/media/n5j50VGDzkUqA/giphy.gif",
             "id": "1",
-            "gifUser": {
-                "name": "MangaDex",
-                "profileUrl": "https://mangadex.com/",
-                "isVerified": true
-            }
+            "gifUser": { "name": "MangaDex", "profileUrl": "https://mangadex.com/", "isVerified": true }
         },
         {
             "name": "Playing Game",
             "gifUrl": "https://media.giphy.com/media/SMM46lebf8BnQJd9KJ/giphy.gif",
             "id": "2",
-            "gifUser": {
-                "name": "Mobile Legends",
-                "profileUrl": "https://moonton.com/",
-                "isVerified": true
-            }
+            "gifUser": { "name": "Mobile Legends", "profileUrl": "https://moonton.com/", "isVerified": true }
         },
         {
             "name": "Reading WikiPedia",
             "gifUrl": "https://media.giphy.com/media/Xe02toxlUsztG7iQgb/giphy.gif",
             "id": "3",
-            "gifUser": {
-                "name": "WikiPedia",
-                "profileUrl": "https://wikipedia.com/",
-                "isVerified": true
-            }
+            "gifUser": { "name": "WikiPedia", "profileUrl": "https://wikipedia.com/", "isVerified": true }
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
@@ -198,7 +186,7 @@
         "interestedBy": "Learning Frontend to improve my artistic soul"
     },
     "resumeCustomization": {
-        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
+        "imageHeader": { "url": "https://anbidev.com/post/clean-code-01.jpg", "alt": "AnbiDev" },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
             { "type": "experiences", "variant": 4 },
@@ -212,6 +200,49 @@
             { "type": "soundtrack", "variant": 4 },
             { "type": "social", "variant": 4 }
         ],
-        "fields": { "work": { "customDateFormat": "YYYY" } }
+        "fields": { "work": { "customDateFormat": "YYYY" } },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#eeeff1",
+                    "100": "#dde0e2",
+                    "200": "#bbc0c6",
+                    "300": "#99a1a9",
+                    "400": "#77818d",
+                    "500": "#556270",
+                    "600": "#444e5a",
+                    "700": "#333b43",
+                    "800": "#22272d",
+                    "900": "#111416",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#edfaf9",
+                    "100": "#dcf5f3",
+                    "200": "#b8ebe7",
+                    "300": "#95e1dc",
+                    "400": "#71d7d0",
+                    "500": "#4ecdc4",
+                    "600": "#3ea49d",
+                    "700": "#2f7b76",
+                    "800": "#1f524e",
+                    "900": "#102927",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#f9fef0",
+                    "100": "#f4fde0",
+                    "200": "#e9fbc1",
+                    "300": "#ddf8a2",
+                    "400": "#d2f683",
+                    "500": "#c7f464",
+                    "600": "#9fc350",
+                    "700": "#77923c",
+                    "800": "#506228",
+                    "900": "#283114",
+                    "contrastDefaultColor": "light"
+                }
+            }
+        }
     }
 }

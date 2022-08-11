@@ -45,7 +45,7 @@ const DEFAULT_OPTIONS = {
     locale: 'en',
     customization: {
         imageHeader: {
-            url: 'https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp',
+            url: 'https://anbidev.com/post/web-princip.jpg',
             alt: 'Default Banner'
         }
     },

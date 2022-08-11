@@ -2,7 +2,7 @@ import mergeWith from 'lodash/mergeWith';
 import merge from 'lodash/merge';
 import cloneDeep from 'lodash/cloneDeep';
 import isArray from 'lodash/isArray';
-import {palette} from '@welovedevs/ui';
+import { palette } from '@welovedevs/ui';
 
 import { THEME_SCHEMA } from './theme_schema';
 import { transformTheme } from './theme_transforms';
@@ -25,7 +25,7 @@ export const DEFAULT_THEME = {
     components: {
         banner: {
             overlayColor: 'primary',
-            imageSource: 'https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp'
+            imageSource: 'https://anbidev.com/post/web-princip.jpg'
         },
         cards: {
             height: 470,
