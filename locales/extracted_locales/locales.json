@@ -712,7 +712,7 @@
     "id": "InterestedBy.noInterested.buttonLabel"
   },
   {
-    "defaultMessage": "Interested by:",
+    "defaultMessage": "Going To :",
     "id": "InterestedBy.front.content"
   },
   {
@@ -956,7 +956,7 @@
     "id": "Studies.front.action"
   },
   {
-    "defaultMessage": "I graduated from {schoolName}",
+    "defaultMessage": "I will graduate from {schoolName}",
     "id": "Studies.title"
   },
   {

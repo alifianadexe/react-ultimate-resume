@@ -1,68 +1,69 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Muhammad Alifian Aqshol",
         "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "picture": "https://anbidev.com/img/adexe.jpg",
+        "email": "alifianadexe@gmail.com",
+        "phone": "(+62)838-3820-3528",
+        "website": "http://alifianadexe.me",
+        "summary": "Stuck From Curiosity",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Bergota",
+            "postalCode": "4115",
+            "city": "Semarang",
+            "countryCode": "ID",
+            "region": "Jawa Tengah",
+            "name": "Semarang, Indonesia"
         },
         "profiles": [
-            {
-                "network": "twitter",
-                "username": "@john"
-            },
-            {
-                "network": "Portfolio",
-                "url": "https://myawesome.portfolio.rocket.fr"
-            },
-            {
-                "network": "codingame",
-                "username": "ed3ee82f9630e99db32dec093b2ca07a0368002"
-            }, {
-                "network": "github",
-                "username": "clementdevos"
-            },
-            {
-                "network": "linkedin",
-                "url": "https://www.linkedin.com/in/%F0%9F%A5%B3-cl%C3%A9ment-devos-4b832526/"
-            }
+            { "network": "twitter", "username": "@alifianadexe" },
+            { "network": "Portfolio", "url": "https://www.anbidev.com/authors/adexe/" },
+            { "network": "codingame", "username": "alifianadexe" },
+            { "network": "github", "username": "alifianadexe" },
+            { "network": "linkedin", "url": "https://www.linkedin.com/in/alifian-aqshol-44969215a/" }
         ]
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
+            "name": "Busana Apparel Group",
+            "position": "IT Developer",
             "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "startDate": "2019-04-01",
+            "summary": "Develop company-owned applications using the Python programming language and OOP (Object-Oriented-Programming) concepts. And so more applications behind it build with React, NodeJS, Django and many more.",
+            "location": "Kab. Semarang, Indonesia",
+            "highlights": ["Started the company"],
+            "id": "09b62670-1242-4901-97a6-d1768b954e03",
+            "endDate": "2022-08-11",
+            "place": { "name": "Kab. Semarang, Indonesia" },
+            "stillEmployed": true,
+            "index": 0
         },
         {
-            "name": "What a nice office",
-            "position": "President",
+            "name": "AnbiDev",
+            "position": "Founder",
             "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "startDate": "2019-04-01",
+            "summary": "AnbiDev is a website blog about programming, opinion and technology around the world for you.\n\nPython\nFlutter\nKotlin\nand many more.",
+            "location": "Semarang, Indonesia",
+            "highlights": ["Started the company"],
+            "id": "796d13c9-ac35-4a97-a847-7310ba4d9940",
+            "place": { "name": "Semarang, Indonesia" },
+            "stillEmployed": false,
+            "index": 1
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
+            "name": "CV. Karya Hidup Sentosa",
+            "position": "Programmer Internship",
             "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "summary": "Create a website and also an android application for the company requirements and also the client request. Do research for making applications that will be used, as well as data collection and making decisions for the application.",
+            "location": "Yogyakarta, Indonesia",
+            "highlights": ["Started the company"],
+            "id": "618fbfd3-a82c-41c0-a403-74158ae46f3b",
+            "startDate": "2018-05-01",
+            "endDate": "2019-04-01",
+            "place": { "name": "Yogyakarta, Indonesia" },
+            "stillEmployed": true,
+            "index": 2
         }
     ],
     "volunteer": [
@@ -77,32 +78,25 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "institution": "University Dian Nuswantoro",
+            "area": "Information Technology",
+            "studyType": "Bachelor",
+            "startDate": "2020-08-01",
+            "endDate": "2024-06-01",
+            "gpa": "3.45",
+            "courses": []
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
+            "institution": "Vocational High School",
+            "area": "Computer Network Engineering",
+            "studyType": "Student",
+            "startDate": "2015-06-01",
+            "endDate": "2019-06-01",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "courses": []
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
+    "awards": [{ "title": "Award", "date": "2014-11-01", "awarder": "Company", "summary": "There is no spoon." }],
     "publications": [
         {
             "name": "Publication",
@@ -113,198 +107,111 @@
         }
     ],
     "skills": [
+        { "name": "Python", "index": 0, "value": 100, "id": "Python" },
         {
             "name": "React",
             "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
             "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["HTML", "CSS", "Javascript"],
+            "index": 1,
+            "id": "React"
         },
-        {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        }
+        { "name": "SQLAlchemy", "index": 2, "value": 80, "id": "SQLAlchemy" },
+        { "name": "Codeigniter", "index": 3, "value": 70, "id": "Codeigniter" },
+        { "name": "NodeJS", "index": 4, "value": 65, "id": "NodeJS" },
+        { "name": "Laravel", "index": 5, "value": 50, "id": "5b26edda-ebab-4345-852e-e9c33110474d" }
     ],
     "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" },
-        { "language": "Italien", "value": 15, "fluency": "Native speaker" }
+        { "language": "Indonesian", "value": 100, "fluency": "Native speaker" },
+        { "language": "English", "value": 60, "fluency": "Non-Native speaker" }
     ],
     "interests": [
         {
-            "name": "France europe gif by nike football",
-            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
-            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
+            "name": "Reading Manga",
+            "gifUrl": "https://media.giphy.com/media/n5j50VGDzkUqA/giphy.gif",
+            "id": "1",
             "gifUser": {
-                "name": "Nike Football",
-                "profileUrl": "https://giphy.com/nikefootball/",
-                "isVerified": true,
-                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
+                "name": "MangaDex",
+                "profileUrl": "https://mangadex.com/",
+                "isVerified": true
             }
         },
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
+            "name": "Playing Game",
+            "gifUrl": "https://media.giphy.com/media/SMM46lebf8BnQJd9KJ/giphy.gif",
+            "id": "2",
+            "gifUser": {
+                "name": "Mobile Legends",
+                "profileUrl": "https://moonton.com/",
+                "isVerified": true
+            }
         },
         {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Reading WikiPedia",
+            "gifUrl": "https://media.giphy.com/media/Xe02toxlUsztG7iQgb/giphy.gif",
+            "id": "3",
+            "gifUser": {
+                "name": "WikiPedia",
+                "profileUrl": "https://wikipedia.com/",
+                "isVerified": true
+            }
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
         {
-            "index": 5,
-            "date": { "month": 11, "year": 2019 },
-            "description": "Moteur de recherche via le nom de films réalisée avec ReactJs:\nRequête à l'Api rest avec Fetch, utilisation des hooks.\n",
-            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
-            "images": [{ "url": "https://cdn.filestackcontent.com/aBOkTTkCQ66VOHUy0q8L" }],
-            "link": "https://lovely-movie.netlify.app/",
-            "name": "Lovely Movie",
-            "endDate": "2019-12-01"
-        },
-        {
-            "index": 2,
-            "date": { "month": 0, "year": 2020 },
-            "description": "Application de gestion de tâches réalisée avec ReactJs / Redux / Firebase :\nCréation de composants avec Styled Components, gestions de formulaires et validation des entrées, création d'une authentification, récupération / création / modification / suppression de tâches.",
-            "id": "af4181b1-8955-47fb-8dd9-17c6974335d3",
-            "images": [{ "url": "https://cdn.filestackcontent.com/G2CckiqvScC9tsrvHYg4" }],
-            "link": "https://diary-todo.netlify.app/",
-            "name": "Journal d'une Todo",
-            "endDate": "2020-01-01"
-        },
-        {
-            "index": 4,
-            "date": { "month": 5, "year": 2020 },
-            "description": "Blog réalisé en Java JEE et Spring, avec création d'une base de données MySQL et connectée avec JDBC.",
-            "id": "af8c78c3-f7c6-4f3b-9c32-9d37a9032e14",
-            "images": [{ "url": "https://cdn.filestackcontent.com/rPp0wj4S2GhTr0qTcqOI" }],
-            "link": "https://btz-java-2003-pjt1-blog.javarover.wilders.dev/",
-            "name": "Charlie's Angels blog",
-            "endDate": "2020-06-01"
-        },
-        {
-            "index": 3,
-            "date": { "month": 5, "year": 2020 },
-            "description": "** Pensée uniquement pour téléphone **\nApplication permettant de connaître la météo actuelle d'une ville. Réalisée afin de découvrir VueJs.",
-            "id": "c64e6ca1-6300-4d7f-a305-8cfb7c99a9e6",
-            "images": [{ "url": "https://cdn.filestackcontent.com/w5oskUihSiYCxekOn9Ba" }],
-            "link": "https://appli-meteo.netlify.app/",
-            "name": "Application Météo",
-            "endDate": "2020-06-01"
-        },
-        {
             "index": 1,
-            "date": { "month": 7, "year": 2020 },
-            "description": "Premières armes avec Angular et Typescript :\nMise en place d'un environnement Angular, développement d'une authentification avec Firebase, gestion des formulaires, utilisation d'observable avec RxJs.\n",
-            "id": "d9f7ca32-a40a-418e-affb-317bfb4f520e",
-            "images": [{ "url": "https://cdn.filestackcontent.com/NVOhKNFQR9OQ3jtkIyHi" }],
-            "link": "https://my-connected-library.netlify.app/",
-            "name": "Librairie Connectée",
-            "endDate": "2020-08-01"
-        },
-        {
-            "index": 6,
-            "date": { "month": 4, "year": 2019 },
-            "description": "Moteur de recherche basé sur le jeu World of Warcraft, premiers pas avec ReatJs.\nRequête à l'API Raider.io avec Axios.",
-            "id": "dbe2a8d9-dd9d-443d-8ae4-7a8e0b7939f5",
-            "images": [{ "url": "https://cdn.filestackcontent.com/FSysoX0ATvqy2BFvLF21" }],
-            "link": "https://wow-search-engine.netlify.app/",
-            "name": "WoW Search",
-            "endDate": "2019-05-01"
-        },
-        {
-            "index": 0,
-            "date": { "month": 6, "year": 2020 },
-            "description": "Application réalisée en 24h (challenge de formation) avec Java JEE et Spring:\nGestion d’un CRUD, création d'une API Rest, ajout d'un environnement de production avec une base de données PostgreSQL hébergée sur Heroku.",
-            "id": "ffb8a4f2-24e6-44ef-bbe7-0593b86d40be",
-            "images": [{ "url": "https://cdn.filestackcontent.com/7XpHKtFTC2VynppurrK5" }],
-            "link": "https://your-todos-list.herokuapp.com/",
-            "name": "Your Todo List",
-            "endDate": "2020-07-01"
+            "date": "2019-08-31T17:00:00.000Z",
+            "description": "Currently AnbiDev is focusing on creating programming-themed content and the world of technology to be presented to the people of Indonesia. In the future there are many things that AnbiDev will develop for everyone.\n",
+            "id": "7f1f4257-e5db-477d-aa5f-ababe0ab0b12",
+            "images": [{ "url": "https://anbidev.com/post/web-solid.jpg" }],
+            "link": "https://anbidev.com",
+            "name": "AnbiDev",
+            "endDate": "2019-09-01"
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "Focus on python application development on backend with some of react in the frontend, also content creator on AnbiDev.\n"
         },
         "dreamJob": {
-            "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paris,France" }],
+            "locations": [
+                { "name": "Jakarta, Indonesia" },
+                { "name": "Tokopedia, Indonesia" },
+                { "name": "Gojek, Indonesia" }
+            ],
             "remoteFrequency": "regularly"
         },
-        "currentJob": {
-            "issues": { "z": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": null },
+        "currentJob": { "issues": { "z": true, "boring_team": false } },
+        "education": { "studiesLevel": 3 },
         "work": {
             "contractTypes": ["permanent", "freelance", "internship"],
-            "codingYears": 0,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "codingYears": 7.5,
+            "codingReason": " I write code to satisfy my curiosity about what I'm going to do with the code I write.",
             "searchState": "activelySearching",
             "experienceYears": 0,
-            "codeExperienceYears": null,
-            "otherExperienceYears": null
+            "codeExperienceYears": 3.5,
+            "otherExperienceYears": 4.5
         },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-        },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "sound": { "embedUrl": "https://open.spotify.com/embed/playlist/2GZkKlg4xmaxsGLti1wIJg" },
+        "interestedBy": "Learning Frontend to improve my artistic soul"
     },
     "resumeCustomization": {
-        "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
-        },
+        "imageHeader": { "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp", "alt": "Default Banner" },
         "cardsOrder": [
             { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
             { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
+            { "type": "skills", "variant": 4 },
             { "type": "language", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "studies", "variant": 4 },
+            { "type": "interestedBy", "variant": 3 },
+            { "type": "dreamjob", "variant": 4 },
+            { "type": "gifs", "variant": 4 },
             { "type": "soundtrack", "variant": 4 },
             { "type": "social", "variant": 4 }
         ],
-        "fields": {
-            "work": {
-                "customDateFormat": "YYYY"
-            }
-        }
+        "fields": { "work": { "customDateFormat": "YYYY" } }
     }
 }
